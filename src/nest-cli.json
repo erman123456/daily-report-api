@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "tes": {
+      "type": "library",
+      "root": "libs/tes",
+      "entryFile": "index",
+      "sourceRoot": "libs/tes/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/tes/tsconfig.lib.json"
+      }
+    }
+  },
+  "compilerOptions": {
+    "webpack": true
+  }
+}
